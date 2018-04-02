@@ -1,4 +1,4 @@
 # Drools
-Business Rules Manageent
+Business Rules Management
 
 Sample project using Drool Compiler
